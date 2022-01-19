@@ -1,6 +1,7 @@
 # Kigali, Rwanda, Roblox.
 This is the official repo for the Roblox game:
   [Game Link](https://www.roblox.com/games/8497773869/RW-Kigali-Rwanda)
+  [Discord](https://discord.gg/wf2udfFKFF/)
   
   
 ```
